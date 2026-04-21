@@ -31,11 +31,16 @@ The screenshot below shows multiple failed login attempts (Event ID 4625) within
 
 
 ## 🧠 Analysis & Interpretation
-Two failed login attempts were observed within a 2-minute time frame targeting a single account.
 
-This behavior is consistent with normal user activity, such as incorrect password entry.
+Two failed login attempts (Event ID 4625) were observed within a short time frame targeting a single user account.
 
-No clear indicators of brute force activity were identified. However, continued monitoring is recommended to detect any escalation in failed login attempts.
+The activity appears limited in frequency and does not demonstrate characteristics of a brute force attack, such as high-volume or rapid repeated attempts.
+
+This behavior is likely attributed to normal user activity, such as incorrect password entry.
+
+No indicators of compromise (IOC) were identified during the analysis.
+
+However, continued monitoring is recommended to detect any potential escalation or abnormal login patterns.
 
 
 ## 🧾 Conclusion
