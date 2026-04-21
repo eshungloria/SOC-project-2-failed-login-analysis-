@@ -24,6 +24,12 @@ This project focuses on analyzing Windows Security logs to detect failed login a
 - Attempts were limited in number and spread over time
 - Targeted a single user account
 
+## Evidence
+The screenshot below shows multiple failed login attempts (Event ID 4625) within a short time frame.
+ 
+![Failed Login Logs](failed-login-logs.png)
+
+
 ## 🧠 Analysis & Interpretation
 Two failed login attempts were observed within a 2-minute time frame targeting a single account.
 
