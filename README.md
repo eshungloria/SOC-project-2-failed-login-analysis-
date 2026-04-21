@@ -37,8 +37,6 @@ This behavior is consistent with normal user activity, such as incorrect passwor
 
 No clear indicators of brute force activity were identified. However, continued monitoring is recommended to detect any escalation in failed login attempts.
 
-## 🖼️ Evidence
-(Add your screenshots here)
 
 ## 🧾 Conclusion
 The observed activity appears to be normal user behavior rather than a brute force attack. No signs of compromise were detected.
